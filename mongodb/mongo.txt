@@ -1,0 +1,49 @@
+replica sets -- {storing data in more than one machine}
+
+/*how mongodb stores data */ -- {BSON(Binary json)}
+advantage 
+-less space
+-faster traversal 
+-large number of datatypes
+=string
+=numeric
+=date 
+=timestamp
+etc..
+
+/*DATA MODELING IN mongodb*/-
+1. representing entities - entities representing in the form of BSON 
+2.relationships - types -- 1-1 ,1-many , many-1 , many-many 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
